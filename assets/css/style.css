@@ -1,0 +1,18 @@
+body {
+    background: url 
+}
+
+.navbar-brand {
+    font-size: 50px; 
+    margin-top:20px; 
+    margin-bottom:20px; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black; 
+}
+
+#navbarlink {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px; 
+    margin-top: 20px; 
+    margin-bottom: 20px;
+}
